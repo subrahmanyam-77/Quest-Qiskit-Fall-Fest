@@ -6,3 +6,4 @@ You can find the slides used in the event here.
 
 Here are some more resources you can check out - 
 1. [Qiskit textbook](https://qiskit.org/textbook/preface.html)
+2. [An amazing series on linear algebra by 3blue1brown](https://youtube.com/playlist?list=PL0-GT3co4r2y2YErbmuJw2L5tW4Ew2O5B)
